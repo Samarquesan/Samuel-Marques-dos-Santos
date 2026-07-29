@@ -90,3 +90,5 @@ Atualmente estou desenvolvendo o **VetNexus**, uma plataforma para gestão de cl
 > _"Software de qualidade é construído com organização, colaboração e evolução contínua."_
 
 ---
+
+
