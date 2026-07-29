@@ -25,6 +25,23 @@ Atualmente estou desenvolvendo o **VetNexus**, uma plataforma para gestão de cl
 </p>
 
 ---
+<p align="center">
+  <!--
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=Samarquesan&show_icons=true&theme=tokyonight"
+    alt="Herbert Carnauba de Souza GitHub Stats"
+  />
+  -->
+
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Samarquesan&layout=compact&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+---
 
 ## 🧠 Minhas competências
 
